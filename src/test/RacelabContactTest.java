@@ -14,7 +14,7 @@ public class RacelabContactTest extends TestBase {
 	    racelabContactTest.openContactPage();
 
 	  
-	    racelabContactTest.fillContactForm("Arian", "Test@example.com", "0730746677", "Test skoluppgift teest body");
+	    racelabContactTest.fillContactForm("Arian", "Test@example.com", "0730746676", "Test skoluppgift teest body");
 
 	    racelabContactTest.assertSendButton();
 	   
